@@ -10,6 +10,20 @@
         your background is light. */
     color: white;
     }
+
+/*center nav links*/
+.portfolio-header .mdl-layout__header-row {
+  padding: 0;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.portfolio-header .mdl-layout__title {
+  font-size: 14px;
+  text-align: center;
+  font-weight: 300;
+  justify-content: center;
+}
 /*cards*/
 .mdl-card {
     width: 100%;
@@ -17,12 +31,8 @@
 .mdl-card h3 {
     font-weight: bold;
     font-size: 150%;
-    color: #4d4d4d;
 }
 
-.mdl-button {
-    color: #33cccc;
-}
 
 img {
     width:100%;
@@ -32,7 +42,3 @@ img {
         margin-bottom: 0.5em;
         color: black;
     }
-
-.mdl-card__supporting-text{
-    
-}
