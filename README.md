@@ -1,5 +1,4 @@
-# PuttingItAllTogether
------------------------
+
 #Putting It All Together Challenge
 This is the final assignment in the INFX 598 course. 
 
