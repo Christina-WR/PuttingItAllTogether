@@ -4,7 +4,8 @@
 .demo-layout-transparent {
     background: url('../img/background.jpg') center / cover;
     }
-    .demo-layout-transparent .mdl-layout__drawer-button {
+
+.demo-layout-transparent .mdl-layout__drawer-button {
     color: white;
     }
 
